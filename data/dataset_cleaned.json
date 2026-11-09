@@ -1,0 +1,523 @@
+[
+  
+  {
+    "Category": "Admission",
+    "Subcategory": "Documents",
+    "Level": "UG",
+    "Title/Name": "UG Admission Documents",
+    "Aliases": [
+      "ug documents",
+      "documents for ug admission",
+      "bsc aiml documents",
+      "bca documents",
+      "bsc aiml admission documents",
+      "bca admission documents"
+    ],
+    "Description": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "Transfer Certificate (TC)",
+      "Migration Certificate (If Applicable)",
+      "Caste Certificate",
+      "Caste Validity Certificate (SC, ST, NT, OBC, VJNT)",
+      "Income Certificate"
+    ],
+    "Extra Info": "UG requires above documents." 
+  },
+
+  {
+    "Category": "Admission",
+    "Subcategory": "Documents",
+    "Level": "PG",
+    "Title/Name": "PG Admission Documents",
+    "Aliases": [
+      "pg documents",
+      "documents for pg admission",
+      "mca documents",
+      "msc documents",
+      "mca admission",
+      "msc admission"
+    ],
+    "Description": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "Graduation Marksheet",
+      "1st Year Marksheet",
+      "2nd Year Marksheet",
+      "3rd Year Marksheet",
+      "Transfer Certificate (TC)",
+      "Migration Certificate (If Applicable)",
+      "Caste Certificate",
+      "Caste Validity Certificate (SC, ST, NT, OBC, VJNT)",
+      "Income Certificate"
+    ],
+  "Extra Info": "PG requires above documents." 
+  },
+
+  {
+    "Category": "Admission",
+    "Subcategory": "Documents",
+    "Level": "PGDDS",
+    "Title/Name": "PGDDS Admission Documents",
+    "Aliases": [
+      "pgdds documents",
+      "documents for pgdds admission",
+      "pgdds admission documents"
+     
+    ],
+    "Description": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "Graduation Marksheet",
+       "Transfer Certificate (TC)",
+      "Migration Certificate (If Applicable)"
+    ],
+   "Extra Info": "PGDDS requires above documents." 
+  },
+
+
+   
+   {
+  "Category": "Eligibility",
+  "Subcategory": "Admission Criteria",
+  "Title/Name": "BSc AIML Eligibility",
+  "Description": "Students must qualify JEE or CET entrance exam to apply for BSc Artificial Intelligence and Machine Learning.",
+  "Aliases": ["aiml eligibility", "jee for aiml", "cet for aiml", "aiml admission", "bsc aiml eligibility"],
+  "Extra Info": "Minimum 50% in 12th with Maths preferred."
+},
+
+   {
+  "Category": "Eligibility",
+  "Subcategory": "Admission Criteria",
+  "Title/Name": "BCA Eligibility",
+  "Description": "Admission to BCA requires DTE eligibility with minimum 60% marks.",
+  
+  "Aliases": [
+    "bca eligibility",
+    "dte required for bca",
+    "bca admission criteria",
+    "minimum percentage for bca",
+    "bca dte eligibility"
+  ],
+  "Extra Info": "Students must complete 12th standard from a recognized board."
+},
+   {
+  "Category": "Eligibility",
+  "Subcategory": "Admission Criteria",
+  "Title/Name": "MSc CS Eligibility",
+  "Description": "Admission to MSc CS requires graduation in BCA or BSc (AIML, IT, CS) and require SUK entrance examination.",
+  "Aliases": [
+    "msc cs eligibility",
+    "msc cs admission criteria",
+    "who can apply for msc cs",
+    "msc cs entrance exam",
+    "suk entrance for msc cs",
+    "msc computer science eligibility"
+  ],
+  "Extra Info": "Candidates must complete graduation from a recognized university."
+}
+,
+    {
+  "Category": "Eligibility",
+  "Subcategory": "Admission Criteria",
+  "Title/Name": "MCA Eligibility",
+  "Description": "Admission to MCA requires any graduate and SUK entrance examination.",
+ 
+  "Aliases": [
+    "mca eligibility",
+    "mca",
+    "mca admission criteria",
+    "who can apply for mca",
+    "mca entrance exam",
+    "suk entrance for mca",
+    "mca graduation requirement",
+    "mca eligibility after bsc",
+"can i do mca after bsc",
+"mca admission process"
+  ],
+  "Extra Info": "Candidates must complete graduation from a recognized university."
+}
+,
+ {
+  "Category": "Eligibility",
+  "Subcategory": "Admission Criteria",
+  "Title/Name": "PGDDS Eligibility",
+  "Description": "Admission to PGDDS requires any graduate and does not require any entrance examination.",
+  "Aliases": [
+    "pgdds eligibility",
+    "pgdds admission criteria",
+    "who can apply for pgdds",
+    "pgdds entrance exam",
+    "is entrance required for pgdds",
+    "pg diploma data science eligibility"
+  ],
+  "Extra Info": "Candidates must complete graduation from a recognized university."
+},
+  {
+  "Category": "General Info",
+  "Subcategory": "Contact",
+  "Title/Name": "CS Department",
+  "Description": "Email: csdept@university.edu",
+  "Extra Info": "Phone: +02312609347",
+  "Aliases": [
+    "cs department contact",
+    "computer science department contact",
+    "cs dept contact",
+    "cs department email",
+    "computer science email",
+    "cs department phone",
+    "cs department number",
+    "computer science department phone",
+    "contact cs department",
+    "how to contact cs department",
+    "cs office contact",
+    "department contact details",
+    "email cs department",
+    "phone cs department",
+    "helpdesk cs department",
+    "cs department support"
+  ]
+},
+   {
+  "Category": "General Info",
+  "Subcategory": "Contact",
+  "Title/Name": "Office Hours",
+  "Description": "Mon-Fri 9:00-17:00",
+  "Extra Info": null,
+  "Aliases": [
+    "office hours",
+    "department office hours",
+    "cs office hours",
+    "computer science office hours",
+    "college office timing",
+    "college timings",
+    "office timing",
+    "department timings",
+    "working hours",
+    "office working hours",
+    "cs department timing",
+    "when is office open",
+    "office open time",
+    "office close time",
+    "is office open today",
+    "office hours cs department"
+  ]
+},
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "MSc Computer Science Year 1",
+    "Description": "Open: 46420 INR per year | SC/NT/ST/SBC: 3320 INR per year | OBC: 24870 INR per year | SC Scholarship: 27852 INR per year | Border Area: 37895 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "msc fees",
+      "msc yearly fees",
+      "msc cs fees",
+      "msc computer science fees",
+      "msc year 1 fees",
+      "msc first year fees",
+      "msc tuition fees",
+      "msc admission fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "MSc Computer Science Year 2",
+    "Description": "Open: 42220 INR per year | SC/NT/ST/SBC: 2220 INR per year | OBC: 22220 INR per year | SC Scholarship: 25332 INR per year | Border Area: 34470 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "msc year 2 fees",
+      "msc second year fees",
+      "msc final year fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "MCA Year 1",
+    "Description": "Open: 30070 INR per year | SC/NT/ST/SBC: 3320 INR per year | OBC: 16695 INR per year | SC Scholarship: 18042 INR per year | Border Area: 24570 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "mca fees",
+      "mca yearly fees",
+      "mca year 1 fees",
+      "mca first year fees",
+      "mca course fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "MCA Year 2",
+    "Description": "Open: 26970 INR per year | SC/NT/ST/SBC: 2220 INR per year | OBC: 14595 INR per year | SC Scholarship: 16182 INR per year | Border Area: 21970 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "mca year 2 fees",
+      "mca second year fees",
+      "mca final year fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "BCA Year 1",
+    "Description": "Open: 26220 INR per year | SC/NT/ST/SBC: 26220 INR per year | OBC: 26220 INR per year | Border Area: 21495 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "bca fees",
+      "bca yearly fees",
+      "bca year 1 fees",
+      "bca first year fees",
+      "bca admission fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "BCA Year 2",
+    "Description": "Open: 20220 INR per year | SC/NT/ST/SBC: 20220 INR per year | OBC: 20220 INR per year | Border Area: 16720 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "bca year 2 fees",
+      "bca second year fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "BCA Year 3",
+    "Description": "Open: 20220 INR per year | SC/NT/ST/SBC: 20220 INR per year | OBC: 20220 INR per year | Border Area: 16720 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "bca year 3 fees",
+      "bca final year fees",
+      "bca third year fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "BSc AI & ML Year 1",
+    "Description": "Open: 49320 INR per year | SC/NT/ST/SBC: 49320 INR per year | OBC: 49320 INR per year | Border Area: 39320 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "bsc aiml fees",
+      "bsc ai ml fees",
+      "bsc artificial intelligence fees",
+      "bsc aiml year 1 fees",
+      "bsc aiml first year fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "BSc AI & ML Year 2",
+    "Description": "Open: 48320 INR per year | SC/NT/ST/SBC: 48320 INR per year | OBC: 48320 INR per year | Border Area: 39320 INR per year",
+    "Extra Info": "Fee structure 2025-26",
+    "Aliases": [
+      "bsc aiml year 2 fees",
+      "bsc aiml second year fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "BSc AI & ML Year 3",
+    "Description": "Border Area: 39320 INR per year",
+    "Extra Info": "Other categories not listed",
+    "Aliases": [
+      "bsc aiml year 3 fees",
+      "bsc aiml third year fees"
+    ]
+  },
+
+  {
+    "Category": "Fees",
+    "Subcategory": "Tuition",
+    "Title/Name": "BSc AI & ML Year 4",
+    "Description": "Border Area: 39320 INR per year",
+    "Extra Info": "Other categories not listed",
+    "Aliases": [
+      "bsc aiml year 4 fees",
+      "bsc aiml final year fees"
+    ]
+  },
+
+    [
+  {
+    "Category": "Scholarship",
+    "Subcategory": "State Scholarship",
+    "Title/Name": "Rajarshi Shahu Maharaj Shikshan Shulk Scholarship",
+    "Description": "Fee reimbursement scholarship.",
+    "Eligible Courses": ["MSc", "BSc AI & ML","aiml"],
+    "Aliases": [
+      "shahu scholarship",
+      "rajarshi shahu scholarship",
+      "tuition fee scholarship",
+      "shikshan shulk scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "State Scholarship",
+    "Title/Name": "Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojana",
+    "Description": "Hostel and living expense support.",
+    "Eligible Courses": ["MSc", "BSc AI & ML","aiml"],
+    "Aliases": [
+      "punjabrao deshmukh scholarship",
+      "hostel scholarship",
+      "vasatigruh bhatta"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "State Scholarship",
+    "Title/Name": "EBC Scholarship",
+    "Description": "Scholarship for economically backward students.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "ebc scholarship",
+      "economically backward scholarship",
+      "income scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Minority Scholarship",
+    "Title/Name": "Minority Scholarship",
+    "Description": "Scholarship for minority students.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "minority scholarship",
+      "minority fees scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Merit Scholarship",
+    "Title/Name": "Merit Scholarship",
+    "Description": "Awarded for academic performance.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "merit scholarship",
+      "academic scholarship",
+      "topper scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Government Scholarship",
+    "Title/Name": "Post Matric Scholarship (SC/ST)",
+    "Description": "Government scholarship for SC/ST students.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "post matric scholarship",
+      "sc scholarship",
+      "st scholarship",
+      "government sc scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Government Scholarship",
+    "Title/Name": "Post Matric Freeship (Tuition & Exam Fee)",
+    "Description": "Full fee reimbursement scheme.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "freeship",
+      "fee reimbursement",
+      "post matric freeship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "OBC Scholarship",
+    "Title/Name": "Post Matric Scholarship for OBC Students",
+    "Description": "Financial assistance for OBC category students.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "obc scholarship",
+      "obc fees scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Special Scholarship",
+    "Title/Name": "Open Merit Scholarship",
+    "Description": "Scholarship for high academic rank students.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "open merit scholarship",
+      "general merit scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Special Scholarship",
+    "Title/Name": "National Scholarship",
+    "Description": "National level government scholarship scheme.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "national scholarship",
+      "central scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Special Scholarship",
+    "Title/Name": "Labour Welfare Scholarship",
+    "Description": "Scholarship for labour worker families.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "labour scholarship",
+      "worker scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Special Scholarship",
+    "Title/Name": "Disabled Student Scholarship",
+    "Description": "Scholarship for physically challenged students.",
+    "Eligible Courses": ["MSc", "MCA"],
+    "Aliases": [
+      "disabled scholarship",
+      "pwd scholarship",
+      "handicap scholarship"
+    ]
+  },
+
+  {
+    "Category": "Scholarship",
+    "Subcategory": "Government Scholarship",
+    "Title/Name": "Government of India Scholarship",
+    "Description": "Central government scholarship schemes.",
+    "Eligible Courses": ["MSc", "MCA", "BCA", "BSc AI & ML"],
+    "Aliases": [
+      "government scholarship",
+      "india scholarship",
+      "goi scholarship"
+    ]
+  }
+]    
+]
